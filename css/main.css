@@ -119,9 +119,9 @@ h2 {
 }
 
 .cropped-offcanvas {
-  widows: 200px;
+  widows: 200;
   height: 200px;
-  clip-path: circle(50% ar 50% 50%);
+  clip-path: circle(50% at 50% 50%);
 }
 
 .btn-offcanvas-left {
